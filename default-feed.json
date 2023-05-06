@@ -1,9 +1,9 @@
 {
-  "title": "Default",
+  "title": "Default Feed",
   "longTitle": "Default Feed",
   "description": "The default feed contains a collection of high-quality publicly available games and demos across the various applications (emulators, engines, etc.) that are supported by webЯcade.",
-  "thumbnail": "https://webrcade.github.io/webrcade-default-feed/images/default-thumb.png",
-  "background": "https://webrcade.github.io/webrcade-default-feed/images/default-background.png",
+  "thumbnail": "https://pbkgames.weebly.com/uploads/1/3/6/8/136879747/published/pbk-games-1.png",
+  "background": "https://cdn.images.express.co.uk/img/dynamic/143/590x/Sonic-stream-start-time-1442068.jpg?r=1622133011829",
   "categories": [
     {
       "title": "Atari 2600",
@@ -215,16 +215,6 @@
           }
         },
         {
-          "title": "Toyshop Trouble",
-          "description": "Santa's counting on you to ensure that all the toys are painted correctly! Can you get the job done before Santa's sleigh is loaded up on Christmas Eve? You don't want to be responsible for children waking up Christmas morning without toys under their trees, do you? Time to juggle those cans of paint and get moving!",
-          "type": "2600",
-          "thumbnail": "https://webrcade.github.io/webrcade-default-feed/images/2600/toyshop-trouble-thumb.png",
-          "background": "https://webrcade.github.io/webrcade-default-feed/images/2600/toyshop-trouble-background.png",
-          "props": {
-            "rom": "https://raw.githubusercontent.com/webrcade/webrcade-default-feed/main/content/2600/ToyshopTrouble.bin"
-          }
-        },
-        {
           "title": "Thrust",
           "description": "The resistance is about to launch a major offensive against the Intergalactic Empire. You have been commissioned by the resistance to steal Klystron pods from the Empire's storage planets. Each planet is defended by a battery of \"Limpet\" guns, powered by a nuclear power plant.",
           "type": "2600",
@@ -232,6 +222,16 @@
           "background": "https://webrcade.github.io/webrcade-default-feed/images/2600/thrust-background.png",
           "props": {
             "rom": "https://raw.githubusercontent.com/webrcade/webrcade-default-feed/main/content/2600/Thrust.bin"
+          }
+        },
+        {
+          "title": "Toyshop Trouble",
+          "description": "Santa's counting on you to ensure that all the toys are painted correctly! Can you get the job done before Santa's sleigh is loaded up on Christmas Eve? You don't want to be responsible for children waking up Christmas morning without toys under their trees, do you? Time to juggle those cans of paint and get moving!",
+          "type": "2600",
+          "thumbnail": "https://webrcade.github.io/webrcade-default-feed/images/2600/toyshop-trouble-thumb.png",
+          "background": "https://webrcade.github.io/webrcade-default-feed/images/2600/toyshop-trouble-background.png",
+          "props": {
+            "rom": "https://raw.githubusercontent.com/webrcade/webrcade-default-feed/main/content/2600/ToyshopTrouble.bin"
           }
         }
       ]
@@ -527,6 +527,140 @@
       ]
     },
     {
+      "title": "Nintendo Game Boy",
+      "longTitle": "Nintendo Game Boy Games",
+      "background": "https://webrcade.github.io/webrcade-default-feed/images/gb-background.png",
+      "thumbnail": "https://webrcade.github.io/webrcade-default-feed/images/gb-thumb.png",
+      "description": "The Game Boy is an 8-bit handheld game console developed and manufactured by Nintendo. The Game Boy was designed by Nintendo's chief engineer Gunpei Yokoi and its Nintendo R&D1 team.",
+      "items": [
+        {
+          "title": "Bouncing Ball",
+          "longTitle": "The Bouncing Ball",
+          "description": "In this game you are in control of a little ball, which is constantly bouncing around. Your goal is to bounce through all 50 unique levels by collecting every heart you can find on your way.",
+          "type": "gb",
+          "thumbnail": "https://webrcade.github.io/webrcade-default-feed/images/gb/bouncingball-thumb.png",
+          "background": "https://webrcade.github.io/webrcade-default-feed/images/gb/bouncingball-background.png",
+          "props": {
+            "rom": "https://raw.githubusercontent.com/webrcade/webrcade-default-feed/main/content/gb/THEBOUNCINGBALL.GB",
+            "hwType": 3,
+            "colors": 1,
+            "palette": 1
+          }
+        },
+        {
+          "title": "Dangan",
+          "type": "gb",
+          "description": "Dangan GB is a short simplistic boss-rush/bullet-hell SHMUP released for the Game Boy to celebrate the console's 30th anniversary.",
+          "thumbnail": "https://webrcade.github.io/webrcade-default-feed/images/gb/dangan-thumb.png",
+          "background": "https://webrcade.github.io/webrcade-default-feed/images/gb/dangan-background.png",
+          "props": {
+            "rom": "https://raw.githubusercontent.com/webrcade/webrcade-default-feed/main/content/gb/dangan.gb",
+            "hwType": 1
+          }
+        },
+        {
+          "title": "Into the Blue",
+          "description": "This game consists of a vertical play field with panels rising from the bottom. The panels can be rearranged and will disappear if three (or more) matching panels are lined up in a horizontal or vertical row. This game is inspired by the Sega Genesis title Megapanel.",
+          "type": "gb",
+          "thumbnail": "https://webrcade.github.io/webrcade-default-feed/images/gb/intotheblue-thumb.png",
+          "background": "https://webrcade.github.io/webrcade-default-feed/images/gb/intotheblue-background.png",
+          "props": {
+            "rom": "https://raw.githubusercontent.com/webrcade/webrcade-default-feed/main/content/gb/Into%20the%20Blue.gb",
+            "hwType": 1
+          }
+        },
+        {
+          "title": "Lumberjack",
+          "description": "Lumberjack is a Game Boy homebrew where you help the world's most fragile lumberjack cut down an endless tree while avoiding getting killed by little owls, flimsy branches, or just standing still for too long.",
+          "type": "gb",
+          "thumbnail": "https://webrcade.github.io/webrcade-default-feed/images/gb/lumberjack-thumb.png",
+          "background": "https://webrcade.github.io/webrcade-default-feed/images/gb/lumberjack-background.png",
+          "props": {
+            "rom": "https://raw.githubusercontent.com/webrcade/webrcade-default-feed/main/content/gb/ind-lj.gb",
+            "hwType": 3,
+            "colors": 1,
+            "palette": 1
+          }
+        },
+        {
+          "title": "Polka Sheep",
+          "type": "gb",
+          "description": "All the sheep of the flock have been captured in mysterious giant bubbles! Help Polka Sheep rescue his friends using his velcro powers! He can fasten himself to all velcro surfaces within the environments. Avoid hundreds of evil wolves, thousands of kawaii parrots and millions of poisoned spikes to liberate all your friends! It’s an epic fight to restore peace in the flock.",
+          "thumbnail": "https://webrcade.github.io/webrcade-default-feed/images/gb/polkasheep-thumb.png",
+          "background": "https://webrcade.github.io/webrcade-default-feed/images/gb/polkasheep-background.png",
+          "props": {
+            "rom": "https://raw.githubusercontent.com/webrcade/webrcade-default-feed/main/content/gb/PolkaSheep.gb",
+            "hwType": 3,
+            "colors": 1,
+            "palette": 1
+          }
+        },
+        {
+          "title": "Retroid",
+          "type": "gb",
+          "description": "\"Retroid\" is a Game Boy game based on the classic arcade game that was originally published as \"Breakout\" by Atari and later brought to perfection as \"Arkanoid\" by the Japanese software firm Taito. The player controls a paddle at the bottom of the screen that reflects a ball to destroy bricks at the top of the screen.",
+          "thumbnail": "https://webrcade.github.io/webrcade-default-feed/images/gb/retroid-thumb.png",
+          "background": "https://webrcade.github.io/webrcade-default-feed/images/gb/retroid-background.png",
+          "props": {
+            "rom": "https://raw.githubusercontent.com/webrcade/webrcade-default-feed/main/content/gb/Retroid.gb",
+            "hwType": 3,
+            "colors": 1,
+            "palette": 1
+          }
+        },
+        {
+          "title": "Rocket Man",
+          "longTitle": "Rocket Man (Demo) ",
+          "description": "Rocket man is a young aspiring hero with great passion for technology. One day he runs into Light, a villain with telekinetic powers who plans to take control of the city. Accompanied by his virtual assistant Ellie, Rocket Man must defeat Light and his robot henchmen to bring peace back to the city.",
+          "thumbnail": "https://webrcade.github.io/webrcade-default-feed/images/gb/rocketman-thumb.png",
+          "background": "https://webrcade.github.io/webrcade-default-feed/images/gb/rocketman-background.png",
+          "type": "gb",
+          "props": {
+            "rom": "https://raw.githubusercontent.com/webrcade/webrcade-default-feed/main/content/gb/Rocket%20Man%20%28Demo%29%20v1.2.1.gb",
+            "hwType": 5,
+            "border": 1
+          }
+        },
+        {
+          "title": "Super Princess",
+          "type": "gb",
+          "description": "The evil Lord Zurrapa has stolen the kingdom's crown and now our Super Princess has to take it back! Unveil the secrets of the maze, kill all enemies and bring the glory back to the country!",
+          "thumbnail": "https://webrcade.github.io/webrcade-default-feed/images/gb/superprincess-thumb.png",
+          "background": "https://webrcade.github.io/webrcade-default-feed/images/gb/superprincess-background.png",
+          "props": {
+            "rom": "https://raw.githubusercontent.com/webrcade/webrcade-default-feed/main/content/gb/SuperPrincess.gb",
+            "hwType": 3,
+            "colors": 1,
+            "palette": 1
+          }
+        },
+        {
+          "title": "Tobu Tobu Girl",
+          "type": "gb",
+          "description": "Your cat is floating into the atmosphere and you are the only one who can save it. Jump, dash, and flap your arms to maneuver around perilous obstacles racing against the clock to retrieve your pet friend before it is too late!",
+          "thumbnail": "https://webrcade.github.io/webrcade-default-feed/images/gb/tobutobu-thumb.png",
+          "background": "https://webrcade.github.io/webrcade-default-feed/images/gb/tobutobu-background.png",
+          "props": {
+            "rom": "https://raw.githubusercontent.com/webrcade/webrcade-default-feed/main/content/gb/tobu.gb",
+            "hwType": 3,
+            "colors": 1,
+            "palette": 1
+          }
+        },
+        {
+          "title": "Tuff",
+          "type": "gb",
+          "description": "Tuff is an original game for Nintendo's black and white Game Boy, based on a mix of Jump'n'Run and Metroidvania style game elements.",
+          "thumbnail": "https://webrcade.github.io/webrcade-default-feed/images/gb/tuff-thumb.png",
+          "background": "https://webrcade.github.io/webrcade-default-feed/images/gb/tuff-background.png",
+          "props": {
+            "rom": "https://raw.githubusercontent.com/webrcade/webrcade-default-feed/main/content/gb/tuff.gb",
+            "hwType": 1
+          }
+        }
+      ]
+    },
+    {
       "title": "Nintendo SNES",
       "longTitle": "Super Nintendo Games",
       "background": "https://webrcade.github.io/webrcade-default-feed/images/snes-background.png",
@@ -575,6 +709,17 @@
           }
         },
         {
+          "title": "REM",
+          "longTitle": "REM (Demo)",
+          "description": "A single level demo of an eery homebrew platform game for the Super Nintendo.",
+          "type": "snes",
+          "thumbnail": "https://webrcade.github.io/webrcade-default-feed/images/snes/rem-thumb.png",
+          "background": "https://webrcade.github.io/webrcade-default-feed/images/snes/rem-background.png",
+          "props": {
+            "rom": "https://raw.githubusercontent.com/webrcade/webrcade-default-feed/main/content/snes/rem.sfc"
+          }
+        },
+        {
           "title": "Rodas Cross",
           "longTitle": "Rodas Cross (Demo)",
           "description": "Demo release of an action-adventure game with RPG elements for the Super Nintendo developed by Kaffeeware.",
@@ -606,17 +751,6 @@
           }
         },
         {
-          "title": "REM",
-          "longTitle": "REM (Demo)",
-          "description": "A single level demo of an eery homebrew platform game for the Super Nintendo.",
-          "type": "snes",
-          "thumbnail": "https://webrcade.github.io/webrcade-default-feed/images/snes/rem-thumb.png",
-          "background": "https://webrcade.github.io/webrcade-default-feed/images/snes/rem-background.png",
-          "props": {
-            "rom": "https://raw.githubusercontent.com/webrcade/webrcade-default-feed/main/content/snes/rem.sfc"
-          }
-        },
-        {
           "title": "Uwol: Quest for Money",
           "description": "Uwol enjoys a quiet retirement at his cozy house in the beach of Pepinoni (province of Badajoz), so he doesn’t realize that somebody has stolen all his money from the bank. Luckly, his good ol’ friend Meemaid, the evil sorceress-turned-super heroine learned about the incident as she was using the ATM in the very moment the bank was being robbed. That’s why they decide to head back over to the new and refurnished Storm Palace to regain the lost fortune.",
           "type": "snes",
@@ -629,141 +763,6 @@
       ]
     },
     {
-      "title": "Nintendo Game Boy",
-      "longTitle": "Nintendo Game Boy Games",
-      "background": "https://webrcade.github.io/webrcade-default-feed/images/gb-background.png",
-      "thumbnail": "https://webrcade.github.io/webrcade-default-feed/images/gb-thumb.png",
-      "description": "The Game Boy is an 8-bit handheld game console developed and manufactured by Nintendo. The Game Boy was designed by Nintendo's chief engineer Gunpei Yokoi and its Nintendo R&D1 team.",
-      "items": [
-        {
-          "title": "Retroid",
-          "type": "gb",
-          "description": "\"Retroid\" is a Game Boy game based on the classic arcade game that was originally published as \"Breakout\" by Atari and later brought to perfection as \"Arkanoid\" by the Japanese software firm Taito. The player controls a paddle at the bottom of the screen that reflects a ball to destroy bricks at the top of the screen.",
-          "thumbnail": "https://webrcade.github.io/webrcade-default-feed/images/gb/retroid-thumb.png",
-          "background": "https://webrcade.github.io/webrcade-default-feed/images/gb/retroid-background.png",
-          "props": {
-            "rom": "https://raw.githubusercontent.com/webrcade/webrcade-default-feed/main/content/gb/Retroid.gb",
-            "hwType": 3,
-            "colors": 1,
-            "palette": 1
-          }
-        },
-        {
-          "title": "Dangan",
-          "type": "gb",
-          "description": "Dangan GB is a short simplistic boss-rush/bullet-hell SHMUP released for the Game Boy to celebrate the console's 30th anniversary.",
-          "thumbnail": "https://webrcade.github.io/webrcade-default-feed/images/gb/dangan-thumb.png",
-          "background": "https://webrcade.github.io/webrcade-default-feed/images/gb/dangan-background.png",
-          "props": {
-            "rom": "https://raw.githubusercontent.com/webrcade/webrcade-default-feed/main/content/gb/dangan.gb",
-            "hwType": 1
-          }
-        },
-        {
-          "title": "Tuff",
-          "type": "gb",
-          "description": "Tuff is an original game for Nintendo's black and white Game Boy, based on a mix of Jump'n'Run and Metroidvania style game elements.",
-          "thumbnail": "https://webrcade.github.io/webrcade-default-feed/images/gb/tuff-thumb.png",
-          "background": "https://webrcade.github.io/webrcade-default-feed/images/gb/tuff-background.png",
-          "props": {
-            "rom": "https://raw.githubusercontent.com/webrcade/webrcade-default-feed/main/content/gb/tuff.gb",
-            "hwType": 1
-          }
-        },
-        {
-          "title": "Bouncing Ball",
-          "longTitle": "The Bouncing Ball",
-          "description": "In this game you are in control of a little ball, which is constantly bouncing around. Your goal is to bounce through all 50 unique levels by collecting every heart you can find on your way.",
-          "type": "gb",
-          "thumbnail": "https://webrcade.github.io/webrcade-default-feed/images/gb/bouncingball-thumb.png",
-          "background": "https://webrcade.github.io/webrcade-default-feed/images/gb/bouncingball-background.png",
-          "props": {
-            "rom": "https://raw.githubusercontent.com/webrcade/webrcade-default-feed/main/content/gb/THEBOUNCINGBALL.GB",
-            "hwType": 3,
-            "colors": 1,
-            "palette": 1
-          }
-        },
-        {
-          "title": "Super Princess",
-          "type": "gb",
-          "description": "The evil Lord Zurrapa has stolen the kingdom's crown and now our Super Princess has to take it back! Unveil the secrets of the maze, kill all enemies and bring the glory back to the country!",
-          "thumbnail": "https://webrcade.github.io/webrcade-default-feed/images/gb/superprincess-thumb.png",
-          "background": "https://webrcade.github.io/webrcade-default-feed/images/gb/superprincess-background.png",
-          "props": {
-            "rom": "https://raw.githubusercontent.com/webrcade/webrcade-default-feed/main/content/gb/SuperPrincess.gb",
-            "hwType": 3,
-            "colors": 1,
-            "palette": 1
-          }
-        },
-        {
-          "title": "Polka Sheep",
-          "type": "gb",
-          "description": "All the sheep of the flock have been captured in mysterious giant bubbles! Help Polka Sheep rescue his friends using his velcro powers! He can fasten himself to all velcro surfaces within the environments. Avoid hundreds of evil wolves, thousands of kawaii parrots and millions of poisoned spikes to liberate all your friends! It’s an epic fight to restore peace in the flock.",
-          "thumbnail": "https://webrcade.github.io/webrcade-default-feed/images/gb/polkasheep-thumb.png",
-          "background": "https://webrcade.github.io/webrcade-default-feed/images/gb/polkasheep-background.png",
-          "props": {
-            "rom": "https://raw.githubusercontent.com/webrcade/webrcade-default-feed/main/content/gb/PolkaSheep.gb",
-            "hwType": 3,
-            "colors": 1,
-            "palette": 1
-          }
-        },
-        {
-          "title": "Into the Blue",
-          "description": "This game consists of a vertical play field with panels rising from the bottom. The panels can be rearranged and will disappear if three (or more) matching panels are lined up in a horizontal or vertical row. This game is inspired by the Sega Genesis title Megapanel.",
-          "type": "gb",
-          "thumbnail": "https://webrcade.github.io/webrcade-default-feed/images/gb/intotheblue-thumb.png",
-          "background": "https://webrcade.github.io/webrcade-default-feed/images/gb/intotheblue-background.png",
-          "props": {
-            "rom": "https://raw.githubusercontent.com/webrcade/webrcade-default-feed/main/content/gb/Into%20the%20Blue.gb",
-            "hwType": 1
-          }
-        },
-        {
-          "title": "Rocket Man",
-          "longTitle": "Rocket Man (Demo) ",
-          "description": "Rocket man is a young aspiring hero with great passion for technology. One day he runs into Light, a villain with telekinetic powers who plans to take control of the city. Accompanied by his virtual assistant Ellie, Rocket Man must defeat Light and his robot henchmen to bring peace back to the city.",
-          "thumbnail": "https://webrcade.github.io/webrcade-default-feed/images/gb/rocketman-thumb.png",
-          "background": "https://webrcade.github.io/webrcade-default-feed/images/gb/rocketman-background.png",
-          "type": "gb",
-          "props": {
-            "rom": "https://raw.githubusercontent.com/webrcade/webrcade-default-feed/main/content/gb/Rocket%20Man%20%28Demo%29%20v1.2.1.gb",
-            "hwType": 5,
-            "border": 1
-          }
-        },
-        {
-          "title": "Tobu Tobu Girl",
-          "type": "gb",
-          "description": "Your cat is floating into the atmosphere and you are the only one who can save it. Jump, dash, and flap your arms to maneuver around perilous obstacles racing against the clock to retrieve your pet friend before it is too late!",
-          "thumbnail": "https://webrcade.github.io/webrcade-default-feed/images/gb/tobutobu-thumb.png",
-          "background": "https://webrcade.github.io/webrcade-default-feed/images/gb/tobutobu-background.png",
-          "props": {
-            "rom": "https://raw.githubusercontent.com/webrcade/webrcade-default-feed/main/content/gb/tobu.gb",
-            "hwType": 3,
-            "colors": 1,
-            "palette": 1
-          }
-        },
-        {
-          "title": "Lumberjack",
-          "description": "Lumberjack is a Game Boy homebrew where you help the world's most fragile lumberjack cut down an endless tree while avoiding getting killed by little owls, flimsy branches, or just standing still for too long.",
-          "type": "gb",
-          "thumbnail": "https://webrcade.github.io/webrcade-default-feed/images/gb/lumberjack-thumb.png",
-          "background": "https://webrcade.github.io/webrcade-default-feed/images/gb/lumberjack-background.png",
-          "props": {
-            "rom": "https://raw.githubusercontent.com/webrcade/webrcade-default-feed/main/content/gb/ind-lj.gb",
-            "hwType": 3,
-            "colors": 1,
-            "palette": 1
-          }
-        }
-
-      ]
-    },
-    {
       "title": "Nintendo GBC",
       "longTitle": "Nintendo Game Boy Color Games",
       "description": "The Game Boy Color (commonly abbreviated as GBC) is a handheld game console, manufactured by Nintendo. It is the successor to the Game Boy and is part of the Game Boy family. The GBC features a color screen rather than monochrome, but it is not backlit. It is slightly thicker and taller and features a slightly smaller screen than the Game Boy Pocket, its immediate predecessor in the Game Boy line.",
@@ -771,33 +770,14 @@
       "background": "https://webrcade.github.io/webrcade-default-feed/images/gbc-background.png",
       "items": [
         {
-          "title": "Space Invasion",
-          "description": "Space Invasion takes the classic alien invasion genre a step further with full color action, tons of levels, and a variety of aliens, each armed with a different weapon. It's up to you and your three shields to protect the earth.",
+          "title": "Floracy",
+          "longTitle": "Floracy (Demo)",
+          "description": "\"Floracy\" is a roleplaying game with elements of strategy and action games, in which the player breeds plantlike creatures for exciting animated combats. Felix, hero of the video game \"Felix und die Rache der Null\", spends his time growing plants on his farm, which will develop into creatures after a while, the Floracy.",
           "type": "gbc",
-          "thumbnail": "https://webrcade.github.io/webrcade-default-feed/images/gbc/spaceinvasion-thumb.png",
-          "background": "https://webrcade.github.io/webrcade-default-feed/images/gbc/spaceinvasion-background.png",
+          "thumbnail": "https://webrcade.github.io/webrcade-default-feed/images/gbc/florancy-thumb.png",
+          "background": "https://webrcade.github.io/webrcade-default-feed/images/gbc/florancy-background.png",
           "props": {
-            "rom": "https://raw.githubusercontent.com/webrcade/webrcade-default-feed/main/content/gbc/SpaceInvasion01.gb"
-          }
-        },
-        {
-          "title": "µCity",
-          "description": " µCity (also spelled 'uCity', pronounced 'micro-city'), the open-source city-building game for Game Boy Color. The aim of the game is to build a city. Simple enough.",
-          "type": "gbc",
-          "thumbnail": "https://webrcade.github.io/webrcade-default-feed/images/gbc/ucity-thumb.png",
-          "background": "https://webrcade.github.io/webrcade-default-feed/images/gbc/ucity-background.png",
-          "props": {
-            "rom": "https://raw.githubusercontent.com/webrcade/webrcade-default-feed/main/content/gbc/ucity.gbc"
-          }
-        },
-        {
-          "title": "Spelunky",
-          "description": "An attempt to demake Spelunky 2 for the Game Boy Color. In Spelunky players journey deep underground and explore amazing places filled with traps, treasure, and secrets.",
-          "type": "gbc",
-          "thumbnail": "https://webrcade.github.io/webrcade-default-feed/images/gbc/spelunky-thumb.png",
-          "background": "https://webrcade.github.io/webrcade-default-feed/images/gbc/spelunky-background.png",
-          "props": {
-            "rom": "https://raw.githubusercontent.com/webrcade/webrcade-default-feed/main/content/gbc/GBCspelunky.gbc"
+            "rom": "https://raw.githubusercontent.com/webrcade/webrcade-default-feed/main/content/gbc/Floracy.GBC"
           }
         },
         {
@@ -812,14 +792,34 @@
           }
         },
         {
-          "title": "Floracy",
-          "longTitle": "Floracy (Demo)",
-          "description": "\"Floracy\" is a roleplaying game with elements of strategy and action games, in which the player breeds plantlike creatures for exciting animated combats. Felix, hero of the video game \"Felix und die Rache der Null\", spends his time growing plants on his farm, which will develop into creatures after a while, the Floracy.",
+          "title": "Last Crown Warriors",
+          "longTitle": "Last Crown Warriors (Demo)",
+          "description": "Action/strategy game for the Nintendo Game Boy. Take on waves of enemies as you try to conquer all of the bases within each stage. Each warrior has his own custom weapon, and each stage its own enemies.",
           "type": "gbc",
-          "thumbnail": "https://webrcade.github.io/webrcade-default-feed/images/gbc/florancy-thumb.png",
-          "background": "https://webrcade.github.io/webrcade-default-feed/images/gbc/florancy-background.png",
+          "thumbnail": "https://webrcade.github.io/webrcade-default-feed/images/gbc/lastcrown-thumb.png",
+          "background": "https://webrcade.github.io/webrcade-default-feed/images/gbc/lastcrown-background.png",
           "props": {
-            "rom": "https://raw.githubusercontent.com/webrcade/webrcade-default-feed/main/content/gbc/Floracy.GBC"
+            "rom": "https://raw.githubusercontent.com/webrcade/webrcade-default-feed/main/content/gbc/Last%20Crown%20Warriors%20(Demo)%202.1.1.gb"
+          }
+        },
+        {
+          "title": "Space Invasion",
+          "description": "Space Invasion takes the classic alien invasion genre a step further with full color action, tons of levels, and a variety of aliens, each armed with a different weapon. It's up to you and your three shields to protect the earth.",
+          "type": "gbc",
+          "thumbnail": "https://webrcade.github.io/webrcade-default-feed/images/gbc/spaceinvasion-thumb.png",
+          "background": "https://webrcade.github.io/webrcade-default-feed/images/gbc/spaceinvasion-background.png",
+          "props": {
+            "rom": "https://raw.githubusercontent.com/webrcade/webrcade-default-feed/main/content/gbc/SpaceInvasion01.gb"
+          }
+        },
+        {
+          "title": "Spelunky",
+          "description": "An attempt to demake Spelunky 2 for the Game Boy Color. In Spelunky players journey deep underground and explore amazing places filled with traps, treasure, and secrets.",
+          "type": "gbc",
+          "thumbnail": "https://webrcade.github.io/webrcade-default-feed/images/gbc/spelunky-thumb.png",
+          "background": "https://webrcade.github.io/webrcade-default-feed/images/gbc/spelunky-background.png",
+          "props": {
+            "rom": "https://raw.githubusercontent.com/webrcade/webrcade-default-feed/main/content/gbc/GBCspelunky.gbc"
           }
         },
         {
@@ -833,15 +833,83 @@
           }
         },
         {
-          "title": "Last Crown Warriors",
-          "longTitle": "Last Crown Warriors (Demo)",
-          "description": "Action/strategy game for the Nintendo Game Boy. Take on waves of enemies as you try to conquer all of the bases within each stage. Each warrior has his own custom weapon, and each stage its own enemies.",
+          "title": "µCity",
+          "description": " µCity (also spelled 'uCity', pronounced 'micro-city'), the open-source city-building game for Game Boy Color. The aim of the game is to build a city. Simple enough.",
           "type": "gbc",
-          "thumbnail": "https://webrcade.github.io/webrcade-default-feed/images/gbc/lastcrown-thumb.png",
-          "background": "https://webrcade.github.io/webrcade-default-feed/images/gbc/lastcrown-background.png",
+          "thumbnail": "https://webrcade.github.io/webrcade-default-feed/images/gbc/ucity-thumb.png",
+          "background": "https://webrcade.github.io/webrcade-default-feed/images/gbc/ucity-background.png",
           "props": {
-            "rom": "https://raw.githubusercontent.com/webrcade/webrcade-default-feed/main/content/gbc/Last%20Crown%20Warriors%20(Demo)%202.1.1.gb"
+            "rom": "https://raw.githubusercontent.com/webrcade/webrcade-default-feed/main/content/gbc/ucity.gbc"
           }
+        }
+      ]
+    },
+    {
+      "title": "Nintendo 64",
+      "description": "The Nintendo 64 is a classic video game system that was released in the mid 90s and became very popular. It had 3d graphics, a 64-bit processor, various enjoyable games, and a very unique controller. When did the Nintendo 64 come out? The Nintendo 64 came out on June 23, 1996.",
+      "thumbnail": "https://cdn.mos.cms.futurecdn.net/L92cEFyKLJtkGwt4x42kQn.jpg",
+      "background": "https://cdn.mos.cms.futurecdn.net/L92cEFyKLJtkGwt4x42kQn.jpg",
+      "backgroundPixelated": true,
+      "items": [
+        {
+          "props": {
+            "rom": "https://github.com/AlexBlackmore/roms/raw/master/n64/Banjo-Kazooie%20(USA)%20(Rev%20A).n64"
+          },
+          "type": "n64",
+          "title": "Banjo-Kazooie",
+          "description": "In Banjo-Kazooie a bear named Banjo and a bird named Kazooie live on Spiral Mountain. One day Gruntilda the witch kidnaps Banjo's sister Tooty, to steal her beauty via a transformation device. Banjo and Kazooie set out on a dangerous adventure to rescue Tooty.",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-n64-images/master/Named_Titles/resized/Banjo-Kazooie%20(Europe)%20(En%2CFr%2CDe).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-n64-images/master/Named_Snaps/output/Banjo-Kazooie%20(Europe)%20(En%2CFr%2CDe).png",
+          "backgroundPixelated": true,
+          "added": 1683231167129
+        },
+        {
+          "props": {
+            "rom": "https://github.com/AlexBlackmore/roms/raw/master/n64/F-Zero%20X%20(USA).n64"
+          },
+          "type": "n64",
+          "title": "F-Zero X",
+          "description": "Famed SNES racer F-Zero got this N64 update. Gameplay remains essentially unchanged, race in a futuristic racing tournament on tracks levitated miles up in the air, against a selection of devious opponents.\n\nWhere the original had 4 cars to choose from and race against, F-Zero X has no fewer than 30 vehicles all with their own unique strengths and weaknesses, a choice of colours, and customisable power/acceleration ratios for each track. At the beginning you are limited to choosing from 6 cars and 3 tournaments (each featuring 6 tracks each), but in true Nintendo fashion, more cars and tracks are unlocked as you progress through the game.",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-n64-images/master/Named_Titles/resized/F-Zero%20X%20(Europe).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-n64-images/master/Named_Snaps/output/F-Zero%20X%20(Europe).png",
+          "backgroundPixelated": true,
+          "added": 1683231200102
+        },
+        {
+          "props": {
+            "rom": "https://github.com/AlexBlackmore/roms/raw/master/n64/Kirby%2064%20-%20The%20Crystal%20Shards%20(USA).n64"
+          },
+          "type": "n64",
+          "title": "Kirby 64 - The Crystal Shards",
+          "description": "Kirby's first 3-D adventure is also his Nintendo 64 debut, and it finds the always-versatile hero battling a new enemy called Dark Matter. Dark Matter is after a distant land's powerful crystal, but a young fairy named Ribbon attempts to save it by escaping with the gem to Dream Land. Now the crystal has been broken, and it's scattered around the world. Take control of Kirby and help him journey across six worlds, battling a wide variety of enemies and challenging bosses, as he tries to collect all 100 pieces of the shattered crystal.",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-n64-images/master/Named_Titles/resized/Kirby%2064%20-%20The%20Crystal%20Shards%20(Europe).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-n64-images/master/Named_Snaps/output/Kirby%2064%20-%20The%20Crystal%20Shards%20(Europe).png",
+          "backgroundPixelated": true,
+          "added": 1683231077208
+        },
+        {
+          "props": {
+            "rom": "https://github.com/AlexBlackmore/roms/raw/master/n64/Legend%20of%20Zelda%2C%20The%20-%20Ocarina%20of%20Time%20(USA)%20(Rev%20B).n64"
+          },
+          "type": "n64",
+          "title": "Legend of Zelda, The - Ocarina of Time",
+          "description": "Ganondorf, the evil King of Thieves, is on the move, threatening the peaceful land of Hyrule.  He is determined to steal his way into the legendary Sacred Realm in hopes of harnessing the power of the mythical Triforce.  As the young hero Link, it is your destiny to thwart Ganondorf's evil schemes.  Navi, your guardian fairy, will guide you as you venture through the many regions of Hyrule, from the volcanic caves of Death Mountain to the treacherous waters of Zora's Domain.  Before you complete this epic quest, you'll delve into deadly dungeons, collect weapons of great power and learn the spells you need to conquer the most irresistible force of all-time.\n\n* The immersive storyline and environments draw players into an amazing 3D world.\n* Time travel allows you to play as Link in different stages of his life.\n* New gameplay features include a unique targeting system and 1st and 3rd person perspectives.\n* Up to three games can be saved simultaneously to memory!",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-n64-images/master/Named_Titles/resized/Legend%20of%20Zelda%2C%20The%20-%20Ocarina%20of%20Time%20(Europe)%20(Beta)%20(2003-02-13)%20(GameCube).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-n64-images/master/Named_Snaps/output/Legend%20of%20Zelda%2C%20The%20-%20Ocarina%20of%20Time%20(Europe)%20(Beta)%20(2003-02-13)%20(GameCube).png",
+          "backgroundPixelated": true,
+          "added": 1683231042996
+        },
+        {
+          "props": {
+            "rom": "https://github.com/AlexBlackmore/roms/raw/master/n64/Rayman%202%20-%20The%20Great%20Escape%20(USA)%20(En%2CFr%2CDe%2CEs%2CIt).n64"
+          },
+          "type": "n64",
+          "title": "Rayman 2 - The Great Escape",
+          "description": "Rayman 2 takes place in a world called The Glade of Dreams. An army of Robot Pirates, led by Admiral Razorbeard, invades this world and destroys the Heart of the World, the world core. This greatly weakens the resistance's power and disables Rayman's powers, leading to his capture.\n\nGlobox, a friend of Rayman, is later also captured and put in the same cell as Rayman aboard the Pirates' prison ship. Globox restores one of his powers through a silver lum given to him by Ly, a fairy. Rayman escapes the prison ship, and is separated from Globox again. He learns that in order to stand a chance against the Pirates, he needs to find 4 ancient, magic masks to awaken Polokus, the spirit of the world.[10] He travels through the Glade of Dreams via the Hall of Doors, a magical place linked to various locations in the world, controlled by the ancient Teensies.",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-n64-images/master/Named_Titles/resized/Rayman%202%20-%20The%20Great%20Escape%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-n64-images/master/Named_Snaps/output/Rayman%202%20-%20The%20Great%20Escape%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt).png",
+          "backgroundPixelated": true,
+          "added": 1683231057965
         }
       ]
     },
@@ -964,6 +1032,19 @@
           "props": {
             "rom": "https://raw.githubusercontent.com/webrcade/webrcade-default-feed/main/content/gba/powerpig.gba"
           }
+        },
+        {
+          "props": {
+            "rom": "https://github.com/pbk123461/roms/raw/master/gba/Rayman%20-%2010th%20Anniversary%20(USA)%20(En%2CFr%2CDe%2CEs%2CIt).gba",
+            "rtc": true
+          },
+          "type": "gba",
+          "title": "Rayman - 10th Anniversary",
+          "description": "Bundle of Rayman Advance and Rayman 3.\n\nIn Rayman Advance, the lead character consists of a body, a head, two hands and two feet - no arms or legs. Humorous action-adventure/platformer in which the player must jump and climb, and defeat enemies. \n\nIn Rayman 3 the lead character has learned some new abilities. His friend Globox has eaten the Lord of the Dark Lums, thereby enraging the Hoodlums.",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-gba-images/master/Named_Titles/resized/Rayman%20-%2010th%20Anniversary%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt%2CNl%2CSv%2CNo%2CDa%2CFi).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-gba-images/master/Named_Snaps/output/Rayman%20-%2010th%20Anniversary%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt%2CNl%2CSv%2CNo%2CDa%2CFi).png",
+          "backgroundPixelated": true,
+          "added": 1683339144515
         },
         {
           "title": "Simonchu",
@@ -1157,7 +1238,8 @@
           "thumbnail": "https://webrcade.github.io/webrcade-default-feed/images/genesis/cavestory-thumb.png",
           "background": "https://webrcade.github.io/webrcade-default-feed/images/genesis/cavestory-background.png",
           "props": {
-            "rom": "https://raw.githubusercontent.com/webrcade/webrcade-default-feed/main/content/genesis/cavestory.bin"
+            "rom": "https://github.com/pbk123461/roms/raw/master/md/doukutsu-en.bin",
+            "pad3button": true
           }
         },
         {
@@ -1308,6 +1390,19 @@
           }
         },
         {
+          "props": {
+            "rom": "https://github.com/pbk123461/roms/raw/master/md/Lion%20King%2C%20The%20(World).md",
+            "pad3button": true
+          },
+          "type": "genesis",
+          "title": "The Lion King",
+          "description": "The game is a side-scrolling platform game, with the controlled character having to leap, climb, run and descend from platform to platform. There is an exception during the level The Stampede, where Simba is running towards (or in the NES and Game Boy versions, running with the camera looking straight down on top of him) the camera dodging wildebeest and leaping over rocks.\nIn most versions of the game two bars appear on the HUD. To the left is the roar meter, which must be fully charged for Simba's roar to be effective. To the right is the health bar which decreases when Simba is hurt. At the bottom left of the screen is a counter showing how many lives Simba has remaining. Health can be restored by collecting bugs which come in a variety of shapes and sizes. Some rare health-damaging bugs also exist.\nThe player controls Simba (first as a cub, then later as an adult) in the main levels and either Timon or Pumbaa in the bonus levels.",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-genesis-images/master/Named_Titles/resized/Lion%20King%2C%20The%20(World).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-genesis-images/master/Named_Snaps/output/Lion%20King%2C%20The%20(World).png",
+          "backgroundPixelated": true,
+          "added": 1683253137214
+        },
+        {
           "title": "VilQ Adventure",
           "description": "A non-stop side scrolling jump, run, and slider in which you need to avoid the enemies, pick up food, and get as far as possible to reach the highest score.",
           "type": "genesis",
@@ -1412,6 +1507,30 @@
       ]
     },
     {
+      "title": "Sony Playstation",
+      "description": "The PlayStation, one of a new generation of 32-bit consoles, signaled Sony's rise to power in the video game world. Also known as the PS One, the PlayStation used compact discs (CDs), heralding the video game industry's move away from cartridges.Mar",
+      "background": "https://www.gamespot.com/a/uploads/original/1596/15969599/3851186-sonycomputer.jpg",
+      "backgroundPixelated": true,
+      "thumbnail": "https://media.sketchfab.com/models/c7f28da041374f7aa6c25b27c3fda8c6/thumbnails/df77bb22c8a74a9db6e161be0051bd91/7e67e83cec3f47fea8f2d9b86da131bd.jpeg",
+      "items": [
+        {
+          "props": {
+            "discs": [
+              "https://www.dropbox.com/s/ga3p54cnri7zbdf/EBOOT.PBP?dl=0"
+            ],
+            "uid": "d1bac66f-1139-4e40-9ff2-0738af8d07d6"
+          },
+          "type": "psx",
+          "title": "Crash Bandicoot 2 - Cortex Strikes Back",
+          "description": "After the last battle with Crash Bandicoot, Cortex is thrown down to Crash' island. In a cave he finds a crystal which he finds out holds great powers. Cortex plans to use these powers for an improved Cortex Vortex which will turn everyone on Earth into his mindless slaves. But in order to do that he has to find 25 other crystals to power the Cortex Vortex. He recruits his old enemy, Crash, to find them, but Crash doesn't know about Cortex' evil plans.",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Titles/resized/Crash%20Bandicoot%202%20-%20Cortex%20Strikes%20Back%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Snaps/output/Crash%20Bandicoot%202%20-%20Cortex%20Strikes%20Back%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt).png",
+          "backgroundPixelated": true,
+          "added": 1683235115845
+        }
+      ]
+    },
+    {
       "title": "Doom Classic",
       "longTitle": "Doom Classic Games",
       "background": "https://webrcade.github.io/webrcade-default-feed/images/doom-background.png",
@@ -1451,6 +1570,397 @@
           }
         }
       ]
+    },
+    {
+      "title": "Sonic Games",
+      "backgroundPixelated": true,
+      "items": [
+        {
+          "props": {
+            "rom": "https://github.com/AlexBlackmore/roms/raw/master/gba/Combo%20Pack%20-%20Sonic%20Advance%20%2B%20Sonic%20Pinball%20Party%20(USA)%20(En%2CJa%2CFr%2CDe%2CEs%2BEn%2CJa%2CFr%2CDe%2CEs%2CIt).gba",
+            "rtc": true
+          },
+          "type": "gba",
+          "title": "2 Games in 1 - Sonic Advance + Sonic Pinball Party",
+          "description": "",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-gba-images/master/Named_Snaps/output/2%20Games%20in%201%20-%20Sonic%20Advance%20%2B%20Sonic%20Pinball%20Party%20(Europe)%20(En%2CJa%2CFr%2CDe%2CEs%2BEn%2CJa%2CFr%2CDe%2CEs%2CIt).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-gba-images/master/Named_Snaps/output/2%20Games%20in%201%20-%20Sonic%20Advance%20%2B%20Sonic%20Pinball%20Party%20(Europe)%20(En%2CJa%2CFr%2CDe%2CEs%2BEn%2CJa%2CFr%2CDe%2CEs%2CIt).png",
+          "backgroundPixelated": true,
+          "added": 1683229302490
+        },
+        {
+          "props": {
+            "pad3button": true,
+            "rom": "https://www.dropbox.com/s/l4q92sbugvkcb8o/Sonic3C.gen?dl=0"
+          },
+          "type": "genesis",
+          "title": "Sonic & Knuckles + Sonic The Hedgehog 3",
+          "description": "Dr. Robotnik's Death Egg has crash-landed on Floating Island, so called because it harnesses the power of the Chaos Emeralds to float in the air.  Robotnik needs them to repair the Death Egg, so he tells the guardian of Floating Island, Knuckles the Echidna, that Sonic and Tails are there to steal them. With Knuckles tricked and trying to stop the heroes at every turn, will they be able to stop Robotnik in time?\n\nSonic the Hedgehog 3 is the third in the Sonic series of games.  As with the previous games, it is a side-scrolling platformer based around speed.  The basic game remains the same - players collect rings to earn extra lives, which are also used for protection, and scatter everywhere when Sonic is hurt.  Sonic can jump on enemies to defeat them, and Spin Dash by holding down and the jump button, then letting go of down.\n\nNew to Sonic 3 are three different types of shields - the Fire Shield (which protects you from fire but disappears if you enter water), the Water Shield (which lets you breathe underwater infinitely) and the Electric Shield (which pulls nearby rings towards you).  Sonic can use extra abilities when he has these shields by pressing jump while in the air - either a horizontal fireball dash, a vertical bubble bounce, or an electric double jump.  If Sonic has no shield active, he can activate a brief energy shield, also by pressing jump in the air.  Tails cannot use the shields' special abilities, but he can instead either fly or dog paddle (in water) for a limited time.  He can also carry Sonic with him while doing so.\n\nThere are now two types of bonus stages - one is available by collecting 50 or more rings, running past a checkpoint lamppost and then jumping into the stars (as you could in Sonic the Hedgehog 2.  This stage give you the chance to earn bonus rings, lives and power-ups.  In this stage, there is a giant gumball machine.  By hitting the crank, you'll spit out a bonus item that can either be rings, lives or bonus shields.  The stage is over when you fall down the bottom of the screen.\n\nThe other, more important, Special Stage can be accessed by jumping into giant rings that are hidden away in secret areas in each level.  In these stages, you must collect all the blue spheres while avoiding the red ones (which end the stage early).  Collecting all of the outer blue spheres around square or rectangle sphere formations will turn them all into rings - if you collect 50 or more in this stage, you can earn a continue.  Once you collect all the blue spheres in the stage, it clears and you earn one of the seven Chaos Emeralds.\n\nSonic 3 features six different Zones, which are made up of two Acts.  At the end of each Act is a boss that must be defeated to complete the stage and rescue Sonic's animal friends that Robotnik has captured to turn into Badnik robots.  The zones in Sonic 3 are approximately three times bigger than those in Sonic 2, and feature multiple, branching paths.\n\nAs with Sonic 2, there is a two-player Vs. Mode, which plays in a split-screen horizontal style.  There are special monitor pick-ups in this mode which do things like swap player positions, lose rings, or cause a Badnik to appear.  You can also race against the clock in a time trial mode.",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-genesis-images/master/Named_Titles/resized/Sonic%20%26%20Knuckles%20%2B%20Sonic%20The%20Hedgehog%203%20(Europe).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-genesis-images/master/Named_Snaps/output/Sonic%20%26%20Knuckles%20%2B%20Sonic%20The%20Hedgehog%203%20(Europe).png",
+          "backgroundPixelated": true,
+          "added": 1683218819024
+        },
+        {
+          "props": {
+            "rtc": true,
+            "rom": "https://github.com/AlexBlackmore/roms/raw/master/gba/Sonic%20Advance%20(USA)%20(En%2CJa).gba"
+          },
+          "type": "vba-m-gba",
+          "title": "Sonic Advance",
+          "description": "SONIC IS BACK TO SAVE THE WORLD!\n\nThe evil Dr. Eggman is at it again, with a brand new scheme to trip up Sonic and his pals. Maneuver your way through obstacles, puzzles and traps to collect the Chao Emeralds and defeat the vile Dr. Eggman before it’s too late!\n\n-Play as Sonic, Knuckles, Tails, or Amy\n-Link up to 4 players on one gamePak\n-Zip through levels filled with puzzles and traps at sonic speed\n-Exchange chao between the gameBoy Advance and the Sonic Adventure’ 2: Battle gameon the Nintendo GameCube’",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-gba-images/master/Named_Titles/resized/Sonic%20Advance%20(Europe)%20(En%2CJa%2CFr%2CDe%2CEs).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-gba-images/master/Named_Snaps/output/Sonic%20Advance%20(Europe)%20(En%2CJa%2CFr%2CDe%2CEs).png",
+          "backgroundPixelated": true,
+          "added": 1683209206521
+        },
+        {
+          "props": {
+            "rom": "https://github.com/AlexBlackmore/roms/raw/master/gba/Sonic%20Advance%202%20(USA)%20(En%2CJa%2CFr%2CDe%2CEs%2CIt).gba",
+            "rtc": true
+          },
+          "type": "vba-m-gba",
+          "title": "Sonic Advance 2",
+          "description": "Dr. Eggman is up to his old tricks!\n\nJoin Sonic, Tails, Knuckles, and their new friend, Cream the Rabbit, as they take off on a blazingly fast quest to thwart Dr. Eggman's nefarious scheme. Dash through space age metal labyrinths and other new locales as Sonic, Tails, Knuckles and Cream\n\n-Unlock special features and stages by collecting Chaos Emeralds and Special Rings\n-4 players can compete on one gamePak\n-Visit the new Chao Garden and connect to Sonic Adventure 2: Battle on the Nintendo GameCube",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-gba-images/master/Named_Titles/resized/Sonic%20Advance%202%20(Europe)%20(En%2CJa%2CFr%2CDe%2CEs%2CIt).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-gba-images/master/Named_Snaps/output/Sonic%20Advance%202%20(Europe)%20(En%2CJa%2CFr%2CDe%2CEs%2CIt).png",
+          "backgroundPixelated": true,
+          "added": 1683209133152
+        },
+        {
+          "props": {
+            "rtc": true,
+            "rom": "https://github.com/AlexBlackmore/roms/raw/master/gba/Sonic%20Advance%203%20(USA)%20(En%2CJa%2CFr%2CDe%2CEs%2CIt).gba"
+          },
+          "type": "vba-m-gba",
+          "title": "Sonic Advance 3",
+          "description": "JOIN THE QUEST TO DEFEAT THE EVIL DR. EGGMAN!\n\n*Team up with any one of 5 different characters\n*Pull off different combinations of attack moves\n*Experience changes in gameplay depending on a player's partner selection\n*Multiplayer option allows up to 4 players",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-gba-images/master/Named_Titles/resized/Sonic%20Advance%203%20(Europe)%20(En%2CJa%2CFr%2CDe%2CEs%2CIt).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-gba-images/master/Named_Snaps/output/Sonic%20Advance%203%20(Europe)%20(En%2CJa%2CFr%2CDe%2CEs%2CIt).png",
+          "backgroundPixelated": true,
+          "added": 1683209228255
+        },
+        {
+          "props": {
+            "rom": "https://github.com/AlexBlackmore/roms/raw/master/gba/Sonic%20Battle%20(USA)%20(En%2CJa%2CFr%2CDe%2CEs%2CIt).gba",
+            "rtc": true
+          },
+          "type": "gba",
+          "title": "Sonic Battle",
+          "description": "Sonic and pals are gearing up for some brawling action!\n\nFight as one of nine characters including Sonic, Tails and Shadow!\nKnock 'em dead with special attacks and team-based assaults.\nCreate and train fighting partner for 2-on-2 battles.\nDuke it out with your friends in 4 player battles.",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-gba-images/master/Named_Titles/resized/Sonic%20Battle%20(Europe)%20(En%2CJa%2CFr%2CDe%2CEs%2CIt).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-gba-images/master/Named_Snaps/output/Sonic%20Battle%20(Europe)%20(En%2CJa%2CFr%2CDe%2CEs%2CIt).png",
+          "backgroundPixelated": true,
+          "added": 1683215474138
+        },
+        {
+          "props": {
+            "discs": [
+              "https://www.dropbox.com/s/c0x88hirajd06fk/Sonic%20The%20Hedgehog%20CD%20%28Japan%29.chd?dl=0"
+            ],
+            "uid": "edf46901-704e-42d3-b84d-db77726621f4"
+          },
+          "type": "retro-genplusgx-segacd",
+          "title": "Sonic CD",
+          "description": "This is a standard Sonic the Hedgehog side-scrolling action game. Dr. Robotnik has taken over the Little Planet, captured Amy, and created Metal Sonic with the goal of collecting all the Time Stones to be able to manipulate time and conquer the world.  It is up to Sonic to stop him, by rushing through levels set in different time periods, collecting Time Stones.  Sonic CD has features that take advantage of the CD format such as CD audio, video clips, and more levels (over 50 in total).",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-segacd-images/master/Named_Titles/resized/Sonic%20CD%20(Europe).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-segacd-images/master/Named_Snaps/output/Sonic%20CD%20(Europe).png",
+          "backgroundPixelated": true,
+          "added": 1683209414989
+        },
+        {
+          "props": {
+            "rom": "https://github.com/AlexBlackmore/roms/raw/master/mastersystem/Sonic%20Chaos%20(Europe).sms"
+          },
+          "type": "sms",
+          "title": "Sonic Chaos",
+          "description": "The storyline to Sonic Chaos revolves around Dr. Robotnik and his quest for world domination via the use of the mysterious Chaos Emeralds to create nuclear weapons and lasers (according to the North American instruction manual).\n\nRobotnik has stolen the Red Chaos Emerald, causing the other emeralds to \"lose balance\" and be transported to a parallel universe. As a result, South Island is now sinking into the ocean, and it is up to Sonic and Tails to save the island and foil Robotnik's plans of world domination.",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-sms-images/master/Named_Titles/resized/Sonic%20Chaos%20(Europe%2C%20Brazil).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-sms-images/master/Named_Snaps/output/Sonic%20Chaos%20(Europe%2C%20Brazil).png",
+          "backgroundPixelated": true,
+          "added": 1683215568690
+        },
+        {
+          "props": {
+            "rom": "https://github.com/AlexBlackmore/roms/raw/master/mastersystem/Sonic%20The%20Hedgehog%20(USA%2C%20Europe).sms"
+          },
+          "type": "sms",
+          "title": "Sonic The Hedgehog",
+          "description": "Sonic the Hedgehog is a blue hedgehog who lives on South Island with his animal friends. He encounters an evil scientist named Doctor Ivo Robotnik, known as Dr. Eggman in the Japanese version, for the first time. Dr. Robotnik/Eggman seeks to obtain the powerful Chaos Emeralds so that he can take over the world, and sets about transforming animals into robots to serve his ends.",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-sms-images/master/Named_Titles/resized/Sonic%20The%20Hedgehog%20(USA%2C%20Europe%2C%20Brazil).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-sms-images/master/Named_Snaps/output/Sonic%20The%20Hedgehog%20(USA%2C%20Europe%2C%20Brazil).png",
+          "backgroundPixelated": true,
+          "added": 1683215615336
+        },
+        {
+          "props": {
+            "rom": "https://www.dropbox.com/s/uugr5hvkiqu3sit/Sonic_1_-_Spike_Bug_Fix_Spindash.gen?dl=0",
+            "pad3button": true
+          },
+          "type": "genesis",
+          "title": "Sonic The Hedgehog",
+          "description": "When Dr. Eggman was hatching his plans for a global takeover, there was one little thing he didn't count on - Sonic The Hedgehog! Our blue hero zips, flips, and spins through the levels at lightning speed to collect the Chaos Emerald and restore World Order.",
+          "thumbnail": "https://moegamer.files.wordpress.com/2018/08/sonic-title.png?w=1200",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-genesis-images/master/Named_Snaps/output/Sonic%20The%20Hedgehog%20(Japan)%20(En)%20(Virtual%20Console).png",
+          "backgroundPixelated": true,
+          "added": 1683218715124
+        },
+        {
+          "props": {
+            "rom": "https://github.com/AlexBlackmore/roms/raw/master/ngpc/Sonic%20The%20Hedgehog%20-%20Pocket%20Adventure%20(World).ngc"
+          },
+          "type": "ngc",
+          "title": "Sonic The Hedgehog - Pocket Adventure",
+          "description": "Take control of Sonic on the road with Sonic Pocket Adventure. Travel through 9 zones bashing robots and collecting rings. In addition to traditional Sonic gameplay this cartridge features Time Trial, Link Battle, and Puzzle modes. In puzzle mode the player can arrange \"puzzle pieces\" collected through the levels and unlock hidden pictures. To facilitate the on-again, off-again gameplay common in handhelds, you may restart your game on any unlocked zone or act. Similarly this game features multiple levels of difficulty and the option to turn off the standard 10 minute time limit on each level.",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-ngc-images/master/Named_Titles/resized/Sonic%20The%20Hedgehog%20-%20Pocket%20Adventure%20(World).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-ngc-images/master/Named_Snaps/output/Sonic%20The%20Hedgehog%20-%20Pocket%20Adventure%20(World).png",
+          "backgroundPixelated": true,
+          "added": 1683215412798
+        },
+        {
+          "props": {
+            "rom": "https://github.com/AlexBlackmore/roms/raw/master/gamegear/Sonic%20The%20Hedgehog%20-%20Triple%20Trouble%20(USA%2C%20Europe).gg"
+          },
+          "type": "gg",
+          "title": "Sonic The Hedgehog - Triple Trouble",
+          "description": "Sonic and Tails are back with three times the fun and three times the trouble! Dr. Robotnik is building the ultimate super-weapon with the help of Knuckles, but you can stop him by getting the Chaos Emeralds first. Rip across snow and water on Sonic's new jet skateboard or zip underwater in Tails' \"Sea Fox\". But look out - Nack the Weasel is after the Emeralds, too!",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-gg-images/master/Named_Titles/resized/Sonic%20The%20Hedgehog%20-%20Triple%20Trouble%20(USA%2C%20Europe%2C%20Brazil).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-gg-images/master/Named_Snaps/output/Sonic%20The%20Hedgehog%20-%20Triple%20Trouble%20(USA%2C%20Europe%2C%20Brazil).png",
+          "backgroundPixelated": true,
+          "added": 1683215362833
+        },
+        {
+          "props": {
+            "rom": "https://github.com/AlexBlackmore/roms/raw/master/mastersystem/Sonic%20The%20Hedgehog%202%20(Europe)%20(v1.1).sms"
+          },
+          "type": "sms",
+          "title": "Sonic The Hedgehog 2",
+          "description": "The story follows Sonic the Hedgehog and his new partner, Tails the Fox, on their mission to stop the evil Dr. Robotnik from stealing the Chaos Emeralds to power the Death Egg. Sonic and Tails must defeat Robotnik's army and free their friends.",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-sms-images/master/Named_Titles/resized/Sonic%20The%20Hedgehog%202%20(Europe%2C%20Brazil).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-sms-images/master/Named_Snaps/output/Sonic%20The%20Hedgehog%202%20(Europe%2C%20Brazil).png",
+          "backgroundPixelated": true,
+          "added": 1683215590651
+        },
+        {
+          "props": {
+            "pad3button": true,
+            "rom": "https://www.dropbox.com/s/wph18xuj48vud5d/Sonic%20The%20Hedgehog%202%20%28World%29.md?dl=0"
+          },
+          "type": "genesis",
+          "title": "Sonic The Hedgehog 2",
+          "description": "The gameplay of Sonic the Hedgehog 2 builds upon the basic set-up of the original Sonic the Hedgehog game. The player finishes each level, generally moving from left to right, within a time limit of 10 minutes.  Along the way, rings are collected and Badniks are defeated. Star posts serve as checkpoints, where if the player was to lose a life then he or she would return to one.  When the player has collected at least 50 rings, star posts can be run past for an optional Special Stage.  At the end of the last act of each zone (with the exception of Sky Chase Zone which does not have a boss), Sonic confronts Dr. Robotnik.",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-genesis-images/master/Named_Titles/resized/Sonic%20The%20Hedgehog%202%20(USA%2C%20Europe)%20(Rev%20A)%20(Virtual%20Console).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-genesis-images/master/Named_Snaps/output/Sonic%20The%20Hedgehog%202%20(USA%2C%20Europe)%20(Rev%20A)%20(Virtual%20Console).png",
+          "backgroundPixelated": true,
+          "added": 1683218747320
+        }
+      ],
+      "thumbnail": "https://e1.pngegg.com/pngimages/257/897/png-clipart-sonic-the-hedgehog-icons-sonic-classic-sonic-hedgehog.png",
+      "background": "https://e1.pngegg.com/pngimages/257/897/png-clipart-sonic-the-hedgehog-icons-sonic-classic-sonic-hedgehog.png"
+    },
+    {
+      "title": "Mario Games",
+      "thumbnail": "https://cdn3.iconfinder.com/data/icons/supermario/PNG/Retro-Mario.png",
+      "background": "https://fs-prod-cdn.nintendo-europe.com/media/images/10_share_images/games_15/virtual_console_nintendo_3ds_7/SI_3DSVC_SuperMarioBros.jpg",
+      "backgroundPixelated": true,
+      "items": [
+        {
+          "props": {
+            "rtc": true,
+            "rom": "https://github.com/AlexBlackmore/roms/raw/master/gba/Mario%20%26%20Luigi%20-%20Superstar%20Saga%20(USA%2C%20Australia).gba"
+          },
+          "type": "gba",
+          "title": "Mario & Luigi - Superstar Saga",
+          "description": "Princess Toadstool's voice has been stolen by Cackletta and replaced with explosives!  Mario and Luigi with the help of Bowser follow her trail to the neighboring Beanbean Kingdom, where they interact with a new cast of characters in their quest to stop her.\n\nBattle gameplay further continues the Super Mario RPG and Paper Mario traditions.  Rather than merely making selections from a menu as in many RPGs, timing your button presses correctly can inflict or defend from extra damage.",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-gba-images/master/Named_Titles/resized/Mario%20%26%20Luigi%20-%20Superstar%20Saga%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-gba-images/master/Named_Snaps/output/Mario%20%26%20Luigi%20-%20Superstar%20Saga%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt).png",
+          "backgroundPixelated": true,
+          "added": 1683230192547
+        },
+        {
+          "props": {
+            "rom": "https://github.com/AlexBlackmore/roms/raw/master/gba/Mario%20Kart%20-%20Super%20Circuit%20(USA).gba",
+            "rtc": true
+          },
+          "type": "gba",
+          "title": "Mario Kart - Super Circuit",
+          "description": "This GBA conversion brings together elements of both Super Mario Kart (the original SNES classic) and the N64 sequel, Mario Kart 64.\n\nMuch like the SNES title, you can collect coins lying on the tracks to boost the speed of your kart.\n\nAll of the characters from MK64 are included (Mario, Luigi, Toad, Donkey Kong, Bowser, Wario, Peach, and Yoshi)\n\nNo Kart game is complete without a multiplayer mode. In this case, four can play classic and battle modes using either one cartridge and four GBA's or four cartridges and four GBA's for the full list of characters to choose from.\n\nWeapons include the classic green and red shells and the purple spiked shell.\n\n20 new tracks, using elements from both past titles.",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-gba-images/master/Named_Titles/resized/Mario%20Kart%20-%20Super%20Circuit%20(Europe).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-gba-images/master/Named_Snaps/output/Mario%20Kart%20-%20Super%20Circuit%20(Europe).png",
+          "backgroundPixelated": true,
+          "added": 1683230225131
+        },
+        {
+          "props": {
+            "rom": "https://github.com/AlexBlackmore/roms/raw/master/n64/Mario%20Kart%2064%20(USA).n64"
+          },
+          "type": "n64",
+          "title": "Mario Kart 64",
+          "description": "Three Two One GO!  The signal light changes and you drop the pedal to the metal.  Take on up to three friends in the split-screen VS games, or race solo in the Mario GP.  Tell your friends to bring it on in the highly competitive Battle mode.  Advanced features allow you to race with your \"Ghost\".  The driving data from your best run appears as a transparent character on the screen.  No longer must you simply race against the clock -- you can actually race against yourself!\n\n* Save your hottest Ghost data to a portable N64 Controller Pak!\n* Collect multiple power-up items!\n* Twenty different courses -- 4 Cups with 4 courses each and 4 special Battle mode courses!\n* Everyone's favorite characters are back and gorgeously rendered, including two new additions, Donkey Kong and Wario!",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-n64-images/master/Named_Titles/resized/Mario%20Kart%2064%20(Europe).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-n64-images/master/Named_Snaps/output/Mario%20Kart%2064%20(Europe).png",
+          "backgroundPixelated": true,
+          "added": 1683230901918
+        },
+        {
+          "props": {
+            "rom": "https://github.com/AlexBlackmore/roms/raw/master/n64/Mario%20Party%20(USA).n64"
+          },
+          "type": "n64",
+          "title": "Mario Party",
+          "description": "Every game in the main series has a standard Party Mode in which up to four players play through a board, trying to collect as many stars as possible. In every turn, each player rolls a die and progresses on the board, which usually has branching paths. Coins are primarily earned by performing well in a minigame played at the end of each turn. On most boards, players earn stars by reaching a star space and purchasing a star for a certain amount of coins. The star space appears randomly on one of several pre-determined locations and moves every time a star is purchased, usually occupying a blue space.\nEvery Mario Party contains at least 50 to almost 110 minigames with a few different types. Four-player games are a free-for-all in which players compete individually. In 2-on-2 and 1-on-3 minigames, players compete as two groups, cooperating to win, even though they are still competing individually in the main game. Some minigames in Mario Party are 4-player co-op, even though it doesn't say it. In most situations, winners earn ten coins each.",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-n64-images/master/Named_Titles/resized/Mario%20Party%20(Europe)%20(En%2CFr%2CDe).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-n64-images/master/Named_Snaps/output/Mario%20Party%20(Europe)%20(En%2CFr%2CDe).png",
+          "backgroundPixelated": true,
+          "added": 1683230868901
+        },
+        {
+          "props": {
+            "rom": "https://github.com/AlexBlackmore/roms/raw/master/gba/Mario%20Party%20Advance%20(USA).gba",
+            "rtc": true
+          },
+          "type": "gba",
+          "title": "Mario Party Advance",
+          "description": "It's a portable party on your gameBoy Advance! Mario Party Advance takes all the fun of the home console gameand puts it in your hands. All-new mini-games and a host of Professor E. Gadd's incredible Gaddgets -- unique trinkets, toys, detectors and tricks like the Lip Disguise-o-matic that let you play tricks on your friends, test your compatibility and much more. Discover the 60 mini-games as you play through the single-player gameboards. Earn coins as you play the mini-games, and use those coins to unlock Gaddgets you can use with your friends. Use your Gaddgets to take the gameinto the real world. Place your finger on the Finger X-Ray to see what's hidden inside, or use the Compatibility Meter to see how well you and your friends match up.",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-gba-images/master/Named_Titles/resized/Mario%20Party%20Advance%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-gba-images/master/Named_Snaps/output/Mario%20Party%20Advance%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt).png",
+          "backgroundPixelated": true,
+          "added": 1683230280177
+        },
+        {
+          "props": {
+            "rom": "https://github.com/AlexBlackmore/roms/raw/master/gba/Mario%20vs.%20Donkey%20Kong%20(USA%2C%20Australia).gba",
+            "rtc": true
+          },
+          "type": "gba",
+          "title": "Mario vs. Donkey Kong",
+          "description": "After years of apparent goodwill, Mario and Donkey Kong are at it again--this time, on gameBoy Advance. Donkey Kong has stolen all the Mini-Mario toys from the Mario Toy Co., and now it's up to Mario to hunt down his longtime nemesis and retrieve the pilfered goods. As Mario, you must race through challenging levels while finding keys and releasing Mini Marios before time runs out. Along the way, you'll master new moves that can help you overcome new puzzles.",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-gba-images/master/Named_Titles/resized/Mario%20vs.%20Donkey%20Kong%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-gba-images/master/Named_Snaps/output/Mario%20vs.%20Donkey%20Kong%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt).png",
+          "backgroundPixelated": true,
+          "added": 1683230256941
+        },
+        {
+          "props": {
+            "rom": "https://github.com/AlexBlackmore/roms/raw/master/n64/Paper%20Mario%20(USA).n64"
+          },
+          "type": "n64",
+          "title": "Paper Mario",
+          "description": "Mario pals around in an all-new action adventure! Mario's back in his first adventure since Super Mario 64, and this time, Bowser's bent on preventing a storybook ending. When Princess Peach is kidnapped, Mario plots to rescue the seven Star Spirits and rid the Mushroom Kingdom of Koopa's cruel cohorts. As he travels from the tropical jungles of Lavalava Island to the frosty heights of Shiver Mountain, he'll meet up with seven all-new companions... and he'll need help from each one or there'll be no happily ever after.",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-n64-images/master/Named_Titles/resized/Paper%20Mario%20(Europe)%20(En%2CFr%2CDe%2CEs).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-n64-images/master/Named_Snaps/output/Paper%20Mario%20(Europe)%20(En%2CFr%2CDe%2CEs).png",
+          "backgroundPixelated": true,
+          "added": 1683230771146
+        },
+        {
+          "props": {
+            "rom": "https://github.com/AlexBlackmore/roms/raw/master/n64/Super%20Mario%2064%20(USA).n64"
+          },
+          "type": "n64",
+          "title": "Super Mario 64",
+          "description": "Super Mario 64 is a Jump & Run which was developed and published by Nintendo in 1996 as one of the realease titles for the N64. Set in Princess Peach's Castle, Mario discovers that Bowser has invaded the castle and imprisoned the princess as well as her servants within it, using the power of the castle's 120 Power Stars. Mario searches the castle and discovers paintings which are portals to other worlds where Bowser & his minions guard the stars - encouraged to save Princess Peach, Mario embarks on a journey to recover all the Power Stars & defeat Bowser in his lair!",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-n64-images/master/Named_Titles/resized/Super%20Mario%2064%20(Europe)%20(En%2CFr%2CDe).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-n64-images/master/Named_Snaps/output/Super%20Mario%2064%20(Europe)%20(En%2CFr%2CDe).png",
+          "backgroundPixelated": true,
+          "added": 1683230740847
+        },
+        {
+          "props": {
+            "rom": "https://github.com/AlexBlackmore/roms/raw/master/snes/Super%20Mario%20All-Stars%20%2B%20Super%20Mario%20World%20(USA).sfc"
+          },
+          "type": "snes",
+          "title": "Super Mario All-Stars + Super Mario World",
+          "description": "Revisit the magic and fun of the classic Super Mario Bros. series on your Super NES!  Play through Super Mario World, plus all the great Super Mario Bros. games for the NES have been powered up with 16-bit graphics and sound and collected on one super game pak.  As an added bonus, the previously unreleased \"Lost Levels\" are included.  These super challenging courses have never been available in this country until now!\n\n* Five great games in one game pak!  Play through Super Mario Bros., Super Mario Bros. Lost Levels, Super Mario Bros. 2, Super Mario Bros. 3 & Super Mario World!\n* Battery backed memory saves up to 4 players' progress through every game!\n* Play alone or 2 players can alternate play!\n* New 16-bit graphics, sound, and other surprises!",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-snes-images/master/Named_Titles/resized/Super%20Mario%20All-Stars%20%2B%20Super%20Mario%20World%20(USA).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-snes-images/master/Named_Snaps/output/Super%20Mario%20All-Stars%20%2B%20Super%20Mario%20World%20(USA).png",
+          "backgroundPixelated": true,
+          "added": 1683230569471
+        },
+        {
+          "props": {
+            "rom": "https://github.com/AlexBlackmore/roms/raw/master/nes/Mario%20Bros.%20(World).nes"
+          },
+          "type": "nes",
+          "title": "Super Mario Bros.",
+          "description": "Do you have what it takes to save the Mushroom Princess?  You'll have to think fast and move even faster to complete this quest!  The Mushroom Princess is being held captive by the evil Koopa tribe of turtles.  It's up to you to rescue her from the clutches of the Koopa King before time runs out.  But it won't be easy.  To get to the Princess, you'll have to climb mountains, cross seas, avoid bottomless pits, fight off turtle soldiers and a host of black magic traps that only a Koopa King can devise.  It's another non-stop adventure from the Super Mario Bros.!",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Titles/resized/Super%20Mario%20Bros.%20(Europe).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Snaps/output/Super%20Mario%20Bros.%20(Europe).png",
+          "backgroundPixelated": true,
+          "added": 1683230314229
+        },
+        {
+          "props": {
+            "rom": "https://github.com/AlexBlackmore/roms/raw/master/nes/Super%20Mario%20Bros.%202%20(USA).nes"
+          },
+          "type": "nes",
+          "title": "Super Mario Bros. 2",
+          "description": "Mario's back!  Bigger and badder than before!  This time it's a fierce action-packed battle to free the land of Subcon from the curse of the evil Wart.  It's up to you, along with Mario, Luigi, Toad and the Princess, to fight your way through bizarre multi-level worlds and find him!  This time you've got a brand new kind of power - plucking power - and now anything you find can be a weapon.  But beware!  You've never seen creatures like these!  Shyguys and Tweeters!  Ninji and Beezos!  And you've never had an adventure like this!  Only cunning and speed can save you now",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Titles/resized/Super%20Mario%20Bros.%202%20(Europe).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Snaps/output/Super%20Mario%20Bros.%202%20(Europe).png",
+          "backgroundPixelated": true,
+          "added": 1683230493823
+        },
+        {
+          "props": {
+            "rom": "https://github.com/AlexBlackmore/roms/raw/master/nes/Super%20Mario%20Bros.%203%20(USA).nes"
+          },
+          "type": "nes",
+          "title": "Super Mario Bros. 3",
+          "description": "Fight monsters and mini-bosses, avoid ghosts and the burning sun.  Make your way through water and quicksand.  Dodge cannon balls and bullets and rescue the King's wand!\n\nIn Super Mario Bros. 3 there are more warps, more chances at extra lives, and new special suits!  The raccoon suit lets you fly and knock out blocks.  The frog suit helps you out-swim the deadly fish.  There are suits for every occasion!\n\nStore up flowers and mushrooms to use later on.  Play game-show type bonus rounds!  Go back to that last screen and get a mushroom!  Pause to take a break, then continue where you left off!\n\nSuper Mario Bros. 3 is fun to play alone, or team up with a buddy to prolong the adventure!",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Titles/resized/Super%20Mario%20Bros.%203%20(Europe).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Snaps/output/Super%20Mario%20Bros.%203%20(Europe).png",
+          "backgroundPixelated": true,
+          "added": 1683230470749
+        },
+        {
+          "props": {
+            "rom": "https://github.com/AlexBlackmore/roms/raw/master/snes/Super%20Mario%20RPG%20-%20Legend%20of%20the%20Seven%20Stars%20(USA).sfc"
+          },
+          "type": "snes",
+          "title": "Super Mario RPG - Legend of the Seven Stars",
+          "description": "Mario returns in this incredible new role-playing adventure! His latest rival is Smithy, a menacing creature who causes fear and treachery in the Mushroom Kingdom. Mario must recover seven stars and repair the Star Road before he can make his way to Bowser's castle for a final confrontation with Smithy. Powerful weapons, sinister spells and other useful items help Mario to complete his harrowing journey. New friends and old allies support him along the way. Even Bowser lends a hand!",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-snes-images/master/Named_Titles/resized/Super%20Mario%20RPG%20-%20Legend%20of%20the%20Seven%20Stars%20(USA).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-snes-images/master/Named_Snaps/output/Super%20Mario%20RPG%20-%20Legend%20of%20the%20Seven%20Stars%20(USA).png",
+          "backgroundPixelated": true,
+          "added": 1683230652078
+        },
+        {
+          "props": {
+            "rom": "https://github.com/AlexBlackmore/roms/raw/master/snes/Super%20Mario%20World%202%20-%20Yoshi's%20Island%20(USA).sfc"
+          },
+          "type": "snes",
+          "title": "Super Mario World 2 - Yoshi's Island",
+          "description": "The Evil Magikoopa, Kamek, is out to kidnap Baby Mario!  In this sequel to Super Mario World, you play as Yoshi.  Your goal is to successfully carry Baby Mario back to his parents in the Mushroom Kingdom while avoiding all of Kamek's clever traps and evil minions.  Enjoy the various backgrounds of the rich and vibrant locales of Yoshi's Island as you race to complete your quest.\n\nIs Yoshi up to the momentous task at hand?  Help him toss his eggs, manipulate unique objects and solve puzzling situations!  When in doubt, don't be afraid to try EVERYTHING!!\n\n* 16 megs of memory provide 6 worlds - each with 8 stages!\n* Morphmation delivers powerful special effects - scaling, rotating, and 360 degree scrolling.\n* Huge characters and even bigger bosses require quick thinking!\n* Battery back-up to save your progress.",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-snes-images/master/Named_Titles/resized/Super%20Mario%20World%202%20-%20Yoshi's%20Island%20(Europe)%20(En%2CFr%2CDe).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-snes-images/master/Named_Snaps/output/Super%20Mario%20World%202%20-%20Yoshi's%20Island%20(Europe)%20(En%2CFr%2CDe).png",
+          "backgroundPixelated": true,
+          "added": 1683230595356
+        }
+      ]
     }
-  ]
+  ],
+  "props": {
+    "segacd_bios": [
+      "https://github.com/archtaurus/RetroPieBIOS/raw/master/BIOS/bios_CD_J.bin",
+      "https://github.com/archtaurus/RetroPieBIOS/raw/master/BIOS/bios_CD_U.bin",
+      "https://github.com/archtaurus/RetroPieBIOS/raw/master/BIOS/bios_CD_E.bin"
+    ],
+    "lnx_boot": "https://github.com/archtaurus/RetroPieBIOS/raw/master/BIOS/lynxboot.img",
+    "coleco_rom": "https://github.com/archtaurus/RetroPieBIOS/raw/master/BIOS/colecovision.rom",
+    "pcecd_bios": "https://github.com/archtaurus/RetroPieBIOS/raw/master/BIOS/syscard3u.pce",
+    "pcfx_bios": "https://github.com/archtaurus/RetroPieBIOS/raw/master/BIOS/pcfxv101.bin",
+    "neogeocd_bios": "https://github.com/archtaurus/RetroPieBIOS/raw/master/BIOS/neocd.bin",
+    "psx_bios": [
+      "https://github.com/archtaurus/RetroPieBIOS/raw/master/BIOS/scph9002(7502).bin",
+      "https://github.com/archtaurus/RetroPieBIOS/raw/master/BIOS/scph7502.bin",
+      "https://github.com/archtaurus/RetroPieBIOS/raw/master/BIOS/scph7003.bin",
+      "https://github.com/archtaurus/RetroPieBIOS/raw/master/BIOS/scph7002.bin",
+      "https://github.com/archtaurus/RetroPieBIOS/raw/master/BIOS/scph7001.bin",
+      "https://github.com/archtaurus/RetroPieBIOS/raw/master/BIOS/scph5500.bin",
+      "https://github.com/archtaurus/RetroPieBIOS/raw/master/BIOS/scph5501.bin",
+      "https://github.com/archtaurus/RetroPieBIOS/raw/master/BIOS/scph5502.bin",
+      "https://github.com/gingerbeardman/PSX/raw/master/PSXONPSP660.BIN"
+    ]
+  },
+  "backgroundPixelated": true
 }
