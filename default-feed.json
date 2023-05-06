@@ -1,6 +1,6 @@
 {
-  "title": "Default",
-  "longTitle": "Default Feed",
+  "title": "custom pbk",
+  "longTitle": "pbk Feed",
   "description": "The default feed contains a collection of high-quality publicly available games and demos across the various applications (emulators, engines, etc.) that are supported by webЯcade.",
   "thumbnail": "https://webrcade.github.io/webrcade-default-feed/images/default-thumb.png",
   "background": "https://webrcade.github.io/webrcade-default-feed/images/default-background.png",
