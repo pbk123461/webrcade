@@ -1,9 +1,9 @@
 {
-  "title": "Default Feed",
+  "title": "Default",
   "longTitle": "Default Feed",
   "description": "The default feed contains a collection of high-quality publicly available games and demos across the various applications (emulators, engines, etc.) that are supported by webЯcade.",
-  "thumbnail": "https://pbkgames.weebly.com/uploads/1/3/6/8/136879747/published/pbk-games-1.png",
-  "background": "https://cdn.images.express.co.uk/img/dynamic/143/590x/Sonic-stream-start-time-1442068.jpg?r=1622133011829",
+  "thumbnail": "https://webrcade.github.io/webrcade-default-feed/images/default-thumb.png",
+  "background": "https://webrcade.github.io/webrcade-default-feed/images/default-background.png",
   "categories": [
     {
       "title": "Atari 2600",
