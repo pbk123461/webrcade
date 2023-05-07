@@ -1584,7 +1584,7 @@
           "title": "2 Games in 1 - Sonic Advance + Sonic Pinball Party",
           "description": "",
           "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-gba-images/master/Named_Snaps/output/2%20Games%20in%201%20-%20Sonic%20Advance%20%2B%20Sonic%20Pinball%20Party%20(Europe)%20(En%2CJa%2CFr%2CDe%2CEs%2BEn%2CJa%2CFr%2CDe%2CEs%2CIt).png",
-          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-gba-images/master/Named_Snaps/output/2%20Games%20in%201%20-%20Sonic%20Advance%20%2B%20Sonic%20Pinball%20Party%20(Europe)%20(En%2CJa%2CFr%2CDe%2CEs%2BEn%2CJa%2CFr%2CDe%2CEs%2CIt).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-gba-images/master/Named_Titles/resized/Sonic%20Advance%20(Europe)%20(En%2CJa%2CFr%2CDe%2CEs).png",
           "backgroundPixelated": true,
           "added": 1683229302490
         },
@@ -1600,19 +1600,6 @@
           "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-genesis-images/master/Named_Snaps/output/Sonic%20%26%20Knuckles%20%2B%20Sonic%20The%20Hedgehog%203%20(Europe).png",
           "backgroundPixelated": true,
           "added": 1683218819024
-        },
-        {
-          "props": {
-            "rtc": true,
-            "rom": "https://github.com/AlexBlackmore/roms/raw/master/gba/Sonic%20Advance%20(USA)%20(En%2CJa).gba"
-          },
-          "type": "vba-m-gba",
-          "title": "Sonic Advance",
-          "description": "SONIC IS BACK TO SAVE THE WORLD!\n\nThe evil Dr. Eggman is at it again, with a brand new scheme to trip up Sonic and his pals. Maneuver your way through obstacles, puzzles and traps to collect the Chao Emeralds and defeat the vile Dr. Eggman before it’s too late!\n\n-Play as Sonic, Knuckles, Tails, or Amy\n-Link up to 4 players on one gamePak\n-Zip through levels filled with puzzles and traps at sonic speed\n-Exchange chao between the gameBoy Advance and the Sonic Adventure’ 2: Battle gameon the Nintendo GameCube’",
-          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-gba-images/master/Named_Titles/resized/Sonic%20Advance%20(Europe)%20(En%2CJa%2CFr%2CDe%2CEs).png",
-          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-gba-images/master/Named_Snaps/output/Sonic%20Advance%20(Europe)%20(En%2CJa%2CFr%2CDe%2CEs).png",
-          "backgroundPixelated": true,
-          "added": 1683209206521
         },
         {
           "props": {
